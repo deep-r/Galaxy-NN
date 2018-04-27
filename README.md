@@ -3,6 +3,6 @@ This project implements a neural network to classify galaxies based on types - s
 
 The dataset can be downloaded from https://data.galaxyzoo.org/. I've used the .csv format.
 
-Arrtibutes used are: NVOTE	P_EL	P_CW	P_ACW	P_EDGE	P_DK	P_MG	P_CS	P_EL_DEBIASED	P_CS_DEBIASED and SPIRAL	ELLIPTICAL	UNCERTAIN
+Attributes used are: NVOTE	P_EL	P_CW	P_ACW	P_EDGE	P_DK	P_MG	P_CS	P_EL_DEBIASED	P_CS_DEBIASED and SPIRAL	ELLIPTICAL	UNCERTAIN
 
 The artificial neural network has 2 hidden layers.
